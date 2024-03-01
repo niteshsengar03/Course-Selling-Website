@@ -3,3 +3,4 @@ function adminMiddleware(req,res,next){
     //Implent admin auth logic
     
 }
+module.exports = adminMiddleware;
